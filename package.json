@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/levelkdev/dxswap-periphery"
+    "url": "https://github.com/metrodao/dxswap-periphery"
   },
   "files": [
     "build",
     "contracts"
   ],
   "dependencies": {
-    "dxswap-core": "https://github.com/1Hive/dxswap-core.git"
+    "dxswap-core": "https://github.com/metrodao/dxswap-core.git"
   },
   "devDependencies": {
     "@types/chai": "^4.2.6",
