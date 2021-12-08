@@ -21,7 +21,8 @@ library DXswapLibrary {
             hex'ff',
             factory,
             keccak256(abi.encodePacked(token0, token1)),
-            hex'ae81bbc68f315fbbf7617eb881349af83b1e95241f616966e1e0583ecd0793fe' // matic init code hash
+            hex'b5643d7dda9231b4ed071929aeaef1e4820da350d4a8cfc8e75b745418e27e53' // metroswap matic init code hash
+            // hex'ae81bbc68f315fbbf7617eb881349af83b1e95241f616966e1e0583ecd0793fe' // honeyswap matic init code hash
             // hex'd306a548755b9295ee49cc729e13ca4a45e00199bbd890fa146da43a50571776' // init code hash original
         ))));
     }
