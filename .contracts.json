@@ -19,5 +19,8 @@
   },
   "avalanche": {
     "router": "0xc9616280Cc74B3B2196D32325f5278a7c2B593C4"
+  },
+  "binance": {
+    "router": "0x95C2D32fDb32EDA8ce7fbF6539Dd6945acb9bB09"
   }
 }
