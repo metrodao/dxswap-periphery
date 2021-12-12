@@ -16,5 +16,8 @@
   },
   "matic": {
     "router": "0x1eEDFf2A89e58c5fC4650C2de45DDA0964C3D343"
+  },
+  "avalanche": {
+    "router": "0xc9616280Cc74B3B2196D32325f5278a7c2B593C4"
   }
 }
