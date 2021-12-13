@@ -25,5 +25,8 @@
   },
   "fuse": {
     "router": "0x71F83A462C6d2674c731C0a67a0A6Ddf6562DC2d"
+  },
+  "iotex": {
+    "router": "0x95C2D32fDb32EDA8ce7fbF6539Dd6945acb9bB09"
   }
 }
