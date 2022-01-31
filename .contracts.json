@@ -34,5 +34,8 @@
   },
   "harmony": {
     "router": "0x71F83A462C6d2674c731C0a67a0A6Ddf6562DC2d"
+  },
+  "bittorrent": {
+    "router": "0x141e478b3E73dff0690B9573d667A25717fD324b"
   }
 }
