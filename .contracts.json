@@ -40,5 +40,8 @@
   },
   "callisto": {
     "router": "0xEf3e05dA4B9F45bF4AA6Bf9B02ab50c5F454f963"
+  },
+  "moonbeam": {
+    "router": "0x9A734E90D89f0c346E27c404D350Ff56DEAD55f1"
   }
 }
