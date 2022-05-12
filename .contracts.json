@@ -46,5 +46,8 @@
   },
   "celo": {
     "router": "0xb14067B3C160E378DeEAFA8c0D03FF97Fbf0C408"
+  },
+  "evmos": {
+    "router": "0x71F83A462C6d2674c731C0a67a0A6Ddf6562DC2d"
   }
 }
