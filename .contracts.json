@@ -49,5 +49,8 @@
   },
   "evmos": {
     "router": "0x71F83A462C6d2674c731C0a67a0A6Ddf6562DC2d"
+  },
+  "astar": {
+    "router": "0x7eeA9607db2941F39CDbD2D53fb06b353EdaeC22"
   }
 }
