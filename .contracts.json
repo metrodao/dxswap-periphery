@@ -52,5 +52,8 @@
   },
   "astar": {
     "router": "0x7eeA9607db2941F39CDbD2D53fb06b353EdaeC22"
+  },
+  "smartbch": {
+    "router": "0xE50E8AE709395351AfC96Cd9E4feE9439491C7F3"
   }
 }
