@@ -55,5 +55,8 @@
   },
   "smartbch": {
     "router": "0xE50E8AE709395351AfC96Cd9E4feE9439491C7F3"
+  },
+  "telos": {
+    "router": "0xc9616280Cc74B3B2196D32325f5278a7c2B593C4"
   }
 }
