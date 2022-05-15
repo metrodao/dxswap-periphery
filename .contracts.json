@@ -58,5 +58,8 @@
   },
   "telos": {
     "router": "0xc9616280Cc74B3B2196D32325f5278a7c2B593C4"
+  },
+  "zyx": {
+    "router": "0xc9616280Cc74B3B2196D32325f5278a7c2B593C4"
   }
 }
