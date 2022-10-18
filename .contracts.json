@@ -5,6 +5,9 @@
   "mainnet": {
     "router": "0xb9960d9bca016e9748be75dd52f02188b9d0829f"
   },
+  "ethw": {
+    "router": "0x2eEBfF016c28e924F315F01A6ee4beF6C058ec55"
+  },
   "arbitrumTestnetV3": {
     "router": "0x825552d3A5893081711C711847bab6b51B1987e3"
   },
