@@ -8,6 +8,9 @@
   "ethw": {
     "router": "0x2eEBfF016c28e924F315F01A6ee4beF6C058ec55"
   },
+  "etf": {
+    "router": "0xEC19488f8Df2f2D0B720EaE1D8b5669bFa537DC5"
+  },
   "arbitrumTestnetV3": {
     "router": "0x825552d3A5893081711C711847bab6b51B1987e3"
   },
